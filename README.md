@@ -7,3 +7,5 @@ Features
 - Display all students
 - Menu-driven interface (Add / Remove / List / Exit)
 
+output
+"C:\Users\ADMIN\Pictures\Screenshots\StudentManagement.png"
