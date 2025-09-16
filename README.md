@@ -8,3 +8,5 @@ Features
 - Menu-driven interface (Add / Remove / List / Exit)
 
 
+#OUTPUT
+StudentManagement.png
